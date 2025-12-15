@@ -1,0 +1,37 @@
+body{
+    background: linear-gradient(rgba(139, 245, 17, 0.178),rgb(199, 200, 205));
+}
+#title{
+    color: purple;
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 2px 2px 5px pink;
+
+}
+p{
+    color:chocolate;
+    font-size: 20px;
+    font-family: fantasy;
+    font-weight: lighter;
+    text-align: center;
+}
+.box{
+    background-color: gray;
+    color: yellowgreen;
+    font-size: 45px;
+    text-align: center;
+}
+.info.box{
+    border:50px double tomato;
+    color: sandybrown;
+    padding:20px;
+    margin:50px;
+
+}
+img{
+    width: 1000px;
+    height: 500px;
+
+}
